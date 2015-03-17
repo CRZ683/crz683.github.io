@@ -1,7 +1,13 @@
 head {
-  background-color: blue
-}
-body {
+  .navbar-inverse .navbar-brand {
+    font-family: "helvetica";
+    font-size: 36px;
+    font-weight: 36px;
+    color: blue;
+    padding-top: 20px;
+    }
+  
+  body {
   width: 600px;
   margin: 0 auto;
   font-family: helvetica neue, arial, sans-serif;
